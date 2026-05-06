@@ -45,3 +45,8 @@ raised worldwide by crowdfunding.
    Percentage of Successful Projects  by Category
    Percentage of Successful Projects by Year , Month etc..
    Percentage of Successful projects by Goal Range ( decide the range as per your need ).
+
+   # Dashboards
+   <img width="1228" height="685" alt="Screenshot 2026-05-06 135209" src="https://github.com/user attachments/assets/020a4246-6ab9-4945-a205-725ef48b97eb" />
+<img width="930" height="579" alt="Screenshot 2026-05-06 134824" src="https://github.com/user-attachments/assets/e77fc843-3c64-4225-ac8f-949480768e42" />
+
